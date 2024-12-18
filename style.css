@@ -1,0 +1,19 @@
+/*
+Theme Name: Kiwwwilab Theme No Code
+Author: Kiwwwilab
+Author URI: https://kiwwwilab.com/
+Theme URI: https://kiwwwilab.com/
+Tags: full-site-editing
+Text Domain: kiwwwilab-theme
+Requires at least: 6.1
+Requires PHP: 7.4
+Tested up to: 6.4
+Version: 1.0.1
+
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+html {
+	scroll-behavior: smooth;
+}
