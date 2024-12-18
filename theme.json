@@ -77,6 +77,11 @@
 					"name": "System (Roboto, Segoe UI, Ubuntu)",
 					"slug": "system",
 					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif"
+				},
+				{
+					"name": "System Serif (Times, Georgia, Garamond)",
+					"slug": "system-serif",
+					"fontFamily": "Times New Roman, Georgia, Garamond, serif"
 				}
 			],
 			"fontSizes": [
